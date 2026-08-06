@@ -369,7 +369,7 @@ overflow-y: visible;
 .cards-slider::-webkit-scrollbar { display: none; }
 .card-container {
 flex: 0 0 calc(100vw - 30px);
-max-width: 330px;
+max-width: 290px;
 aspect-ratio: 2 / 3;
 margin-right: -20px;
 scroll-snap-align: center;
